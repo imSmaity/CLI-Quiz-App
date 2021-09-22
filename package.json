@@ -1,0 +1,24 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imSmaity/CLI-Quiz-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imSmaity/CLI-Quiz-App/issues"
+  },
+  "homepage": "https://github.com/imSmaity/CLI-Quiz-App#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node": "^16.9.1",
+    "readline-sync": "^1.4.10"
+  }
+}
